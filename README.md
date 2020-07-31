@@ -1,6 +1,14 @@
-# AngularTdwebStarter
+# Angular TDWeb Starter
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
+
+* SCSS support
+* Material UI components
+* TDWeb (TDLib implementation for web)
+
+## API id
+
+In order to run app please obtain an [API id](https://core.telegram.org/api/obtaining_api_id) and update API_ID and API_HASH values in src/App/Tg/api.ts 
 
 ## Development server
 
